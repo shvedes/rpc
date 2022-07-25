@@ -33,4 +33,5 @@ client.on('ready', () => {
     console.log('Done');
 });
 
-client.login({clientId: ''}); // Client ID
+// Client ID. You can create a new application here: https://discord.com/developers/applications
+client.login({clientId: 'paste you application ID here'}); 
