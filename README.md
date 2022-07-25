@@ -18,7 +18,7 @@ npm start index.js
 ```
 ### Linux
 
-1. Download **nodejs** and **npm** using your pakage manager
+1. Download **nodejs** and **npm** using your package manager
 2. Create a directory and open it in terminal/VS Code
 3. Paste in terminal: 
 ```
