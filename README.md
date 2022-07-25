@@ -16,7 +16,7 @@ npm init -y; npm install discord-rpc
 ```
 npm start index.js
 ```
-### Linux
+### Linux/MacOS
 
 1. Download **node** and **npm** using ypur pakage manager.
 2. Create a directory
@@ -33,7 +33,7 @@ npm init -y; npm install discord-rpc
 
 Just open your **.bat** file
 
-### Linux 
+### Linux/MacOS
 
 In terminal: 
 ```
