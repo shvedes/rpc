@@ -1,7 +1,5 @@
 # Discord Rich Presence written on JavaScript
 
-## Installation
-
 ### Windows
 
 1. Download and install nodejs from [official page](https://nodejs.org/en/download/)
