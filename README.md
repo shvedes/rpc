@@ -14,7 +14,7 @@ npm init -y; npm install discord-rpc
 5. Open **package.json** and in 7 line replace "**test**" to "**start**"
 6. Create a .bat file with any name and paste:
 ```
-npm start index.js
+node index.js
 ```
 ### Linux
 
