@@ -1,6 +1,6 @@
 # Discord Rich Presence written on JavaScript
 
-### Windows installation
+### Windows 
 
 1. Download and install nodejs from [official page](https://nodejs.org/en/download/)
 2. Create a directory and open it in VS Code
@@ -14,7 +14,7 @@ npm init -y; npm install discord-rpc
 ```
 node index.js
 ```
-### Linux installation
+### Linux
 
 1. Download **nodejs** and **npm** using your package manager
 2. Create a directory and open it in terminal/VS Code
